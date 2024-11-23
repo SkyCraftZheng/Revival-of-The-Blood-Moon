@@ -1,0 +1,3 @@
+- Core rules and setting concept: [Main Concept](Main%20Concept.md)
+- Combat rules: [Combat](Combat.md)
+- [Blood Witch](Blood%20Witch.md) class
