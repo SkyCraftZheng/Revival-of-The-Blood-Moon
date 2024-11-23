@@ -1,0 +1,1 @@
+There are 4 levels of blood temperature: normal, warm, hot, boiling
