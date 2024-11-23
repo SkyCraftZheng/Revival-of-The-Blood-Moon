@@ -27,5 +27,6 @@ When appropriate determined by the GM, like winning a combat and drinking the bl
 Blood and Soul
 - Blood Death: Your soul can cling onto one Blood Ability. Your fellow servants of the Blood Moon can perform a minute long ritual to provide you with a new living body, a Blood Moon will have a similar effect. You regain all your abilities upon consuming the blood of your old body.
 	- This happens whenever you reach 0 Blood outside of combat or when all of the PCs reach 0 Blood in combat.
+	- Whenever you die a Blood Death, you don't forget the people you've tasted the blood of before, and those that have ingested your blood still have drank your blood.
 - Soul Death: You are permanently dead
 	- (Currently, only a severe fallout can cause this)
