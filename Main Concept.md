@@ -12,6 +12,7 @@ STR 0, DEX 0, CON 0, WIS 0, INT 0, CHA 0, distribute +6
 Whenever the GM calls for a roll, you roll with a number of D6s equal to the appropriate stat, strength for brute force, dexterity for finesse and swift tasks etc. Each D6 that rolls a 4 or above, counts as a success. You need to roll successes equal or above the Target obstacle to succeed.
 
 A dice pool of 0, means automatic failure
+
 Target obstacle per situation (ICRPG style, Hard meaning +1 Obstacle and Easy -1 Obstacle)
 
 A failed check should not mean a straight failure in game, that would be no fun because you are meant fail checks! Failed check is a success with a complication or a failure with a silver lining. You pick the door and as you open it it creaks like a bastard, the guards are alerted! In combat, this means you hit the guard in the jugular, but you've left an opening for another guard to retaliate! Or as you go to strike the guard, they use their shield to block your attack avoiding damage, but you punch straight through rendering the shield useless!

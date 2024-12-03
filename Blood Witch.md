@@ -8,7 +8,7 @@ If has a Stat listed, you need to roll with that stat.
 - **Transfer Heat**: -1 [Temperature](Temperature.md), +1 [Temperature](Temperature.md) to an ally
 - **Strike**: **STR** -1 [Temperature](Temperature.md), Melee, D6, if marked: 2D6
 - **Blood Jet**: **DEX** -1 [Temperature](Temperature.md), Ranged, D6, mark the target (Maybe have players choose one between Strike and Blood Jet?)
-- **Mark**: **CON** -1 Blood, to mark something within arm's reach with your blood
+- **Mark**: -1 Blood, to mark something within arm's reach with your blood
 
 - **Bend Fate**: Gain 1 [[Soul Strain]], Choose one of the following:
 	- +1 [Temperature](Temperature.md)
@@ -18,7 +18,7 @@ If has a Stat listed, you need to roll with that stat.
 Whenever you gain addition abilities, increase your max Blood by 2.
 ## Blood Rites (D8): (intended for combat)
 - **Blood Warp**: **INT** -1 [Temperature](Temperature.md), swap places of two marked creatures
-- **Liquid Chains**: **INT** -X [Temperature](Temperature.md), form a chain of blood from yourself to a marked creature or object, you and the object or creature can only move closer to each other. Xd4 rounds
+- **Liquid Chains**: **INT** -X [Temperature](Temperature.md), form a chain of blood between two marked creatures, objects, or object and creature, the two are bound together with an indestructible chain made out of blood. Xd4 rounds
 - **Wall of Blood**: **INT** -X [Temperature](Temperature.md), raise a wall of blood between two marked objects for Xd4 rounds
 - **Splatter**: **CON** -1 [Temperature](Temperature.md), -1 Blood, mark up to 4 objects or creatures that you can see
 - **Scorching Blood**: **CON** -1  [Temperature](Temperature.md) if there are any marked creatures or objects, deal D6 to each marked creature and burn any marked objects, they are no longer marked, at the end of the players turn +1 [Temperature](Temperature.md)
@@ -38,4 +38,4 @@ Whenever you gain addition abilities, increase your max Blood by 2.
 - **Burn Bridges**: Betray a friendly NPC, +1 [Temperature](Temperature.md)
 - **Pius Offering**(1 hour): Sacrifice a life of an innocent to the Blood Moon, +1 [Temperature](Temperature.md)
 - **Nervous Tick**: Reveal your identity as a Blood Witch to someone important, +1 [Temperature](Temperature.md)
-- **Self-Sacrifice**: your blood is [boiling](Temperature.md), you will bleed out and die a Blood Death in the next 5 minutes, once you die your body and blood is reduced to ashes. Nothing can stop this
+- **Self-Sacrifice**: Your blood is [boiling](Temperature.md), you will bleed out and die a Blood Death in the next 5 minutes, once you die your body and blood is reduced to ashes. Nothing can stop this.
